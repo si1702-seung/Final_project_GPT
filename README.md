@@ -1,5 +1,5 @@
 # Final_project_GPT
-##GPT 구현 요약 보고서
+GPT 구현 요약 보고서
 
 이번 과제에서는 notebook 1부터 6까지 단계적으로 확장해 온 문자 단위 language model 을 하나의 작은 GPT 구조로 통합하고, "Attention Is All You Need" 논문의 일부를 참고하여 구현했다. 학습 데이터는 tiny Shakespeare 대신 셜록 홈즈(The Adventures + The Memoirs)를 사용하였다.
 
